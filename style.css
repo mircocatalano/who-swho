@@ -1,0 +1,57 @@
+body{
+    background-color: #DFD3C3;
+}
+
+fieldset{
+    height: 110px;
+    width: 700px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-align: center;
+    color:white;
+    border: solid 0px white;
+    background-color: black;
+}
+
+table{
+    color: black;
+}
+
+button{
+    font-size: large;
+    margin-top: 10px;
+    background-color: red;
+    color: whitesmoke;
+    border: solid 1px white;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    height: 30px;
+    width: 115px;
+}
+
+legend{
+    font-size: large;
+    width: 150px;
+    height: 30px;
+    border: solid 0px white;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color:white;
+    background-color: black;
+}
+
+select{
+    font-size: medium;
+    color: white;
+    background-color: black;
+    text-align: center;
+    border: solid 1px white;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    height: 30px;
+    width: 120px;
+}
